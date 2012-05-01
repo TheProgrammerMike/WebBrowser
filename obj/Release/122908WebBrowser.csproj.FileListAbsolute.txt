@@ -1,0 +1,34 @@
+C:\Documents and Settings\Michael Bekesz\Local Settings\Application Data\Temporary Projects\122908WebBrowser\bin\Release\122908WebBrowser.exe
+C:\Documents and Settings\Michael Bekesz\Local Settings\Application Data\Temporary Projects\122908WebBrowser\bin\Release\122908WebBrowser.pdb
+C:\Documents and Settings\Michael Bekesz\Local Settings\Application Data\Temporary Projects\122908WebBrowser\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael Bekesz\Local Settings\Application Data\Temporary Projects\122908WebBrowser\obj\Release\_122908WebBrowser.txtADDRESS.resources
+C:\Documents and Settings\Michael Bekesz\Local Settings\Application Data\Temporary Projects\122908WebBrowser\obj\Release\_122908WebBrowser.Properties.Resources.resources
+C:\Documents and Settings\Michael Bekesz\Local Settings\Application Data\Temporary Projects\122908WebBrowser\obj\Release\122908WebBrowser.csproj.GenerateResource.Cache
+C:\Documents and Settings\Michael Bekesz\Local Settings\Application Data\Temporary Projects\122908WebBrowser\obj\Release\122908WebBrowser.exe
+C:\Documents and Settings\Michael Bekesz\Local Settings\Application Data\Temporary Projects\122908WebBrowser\obj\Release\122908WebBrowser.pdb
+C:\Documents and Settings\Michael Bekesz\Desktop\School\Spring09\122908WebBrowser\122908WebBrowser\obj\Release\122908WebBrowser.exe
+C:\Documents and Settings\Michael Bekesz\Desktop\School\Spring09\122908WebBrowser\122908WebBrowser\obj\Release\122908WebBrowser.pdb
+C:\Documents and Settings\Michael Bekesz\Desktop\School\Spring09\C# Extra\122908WebBrowser\122908WebBrowser\obj\Release\122908WebBrowser.pdb
+C:\Documents and Settings\Michael Bekesz\Desktop\School\Spring09\C# Extra\122908WebBrowser\122908WebBrowser\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael Bekesz\Desktop\School\Spring09\C# Extra\122908WebBrowser\122908WebBrowser\obj\Release\_122908WebBrowser.txtADDRESS.resources
+C:\Documents and Settings\Michael Bekesz\Desktop\School\Spring09\C# Extra\122908WebBrowser\122908WebBrowser\obj\Release\_122908WebBrowser.Properties.Resources.resources
+C:\Documents and Settings\Michael Bekesz\Desktop\School\Spring09\C# Extra\122908WebBrowser\122908WebBrowser\obj\Release\122908WebBrowser.csproj.GenerateResource.Cache
+C:\Documents and Settings\Michael Bekesz\Desktop\School\Spring09\C# Extra\122908WebBrowser\122908WebBrowser\bin\Release\122908WebBrowser.exe
+C:\Documents and Settings\Michael Bekesz\Desktop\School\Spring09\C# Extra\122908WebBrowser\122908WebBrowser\bin\Release\122908WebBrowser.pdb
+C:\Documents and Settings\Michael Bekesz\Desktop\School\Spring09\C# Extra\122908WebBrowser\122908WebBrowser\obj\Release\122908WebBrowser.exe
+C:\MyProgs\Extra\122908WebBrowser\122908WebBrowser\obj\Release\122908WebBrowser.pdb
+C:\MyProgs\Extra\122908WebBrowser\122908WebBrowser\bin\Release\122908WebBrowser.exe
+C:\MyProgs\Extra\122908WebBrowser\122908WebBrowser\bin\Release\122908WebBrowser.pdb
+C:\MyProgs\Extra\122908WebBrowser\122908WebBrowser\obj\Release\ResolveAssemblyReference.cache
+C:\MyProgs\Extra\122908WebBrowser\122908WebBrowser\obj\Release\_122908WebBrowser.txtADDRESS.resources
+C:\MyProgs\Extra\122908WebBrowser\122908WebBrowser\obj\Release\_122908WebBrowser.Properties.Resources.resources
+C:\MyProgs\Extra\122908WebBrowser\122908WebBrowser\obj\Release\122908WebBrowser.csproj.GenerateResource.Cache
+C:\MyProgs\Extra\122908WebBrowser\122908WebBrowser\obj\Release\122908WebBrowser.exe
+C:\Documents and Settings\Michael Bekesz\Desktop\MyProgs\Extra\122908WebBrowser\122908WebBrowser\obj\Release\122908WebBrowser.exe
+C:\Documents and Settings\Michael Bekesz\Desktop\MyProgs\Extra\122908WebBrowser\122908WebBrowser\obj\Release\122908WebBrowser.pdb
+C:\Documents and Settings\Michael Bekesz\Desktop\MyProgs\Extra\122908WebBrowser\122908WebBrowser\bin\Release\122908WebBrowser.exe
+C:\Documents and Settings\Michael Bekesz\Desktop\MyProgs\Extra\122908WebBrowser\122908WebBrowser\bin\Release\122908WebBrowser.pdb
+C:\Documents and Settings\Michael Bekesz\Desktop\MyProgs\Extra\122908WebBrowser\122908WebBrowser\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael Bekesz\Desktop\MyProgs\Extra\122908WebBrowser\122908WebBrowser\obj\Release\_122908WebBrowser.txtADDRESS.resources
+C:\Documents and Settings\Michael Bekesz\Desktop\MyProgs\Extra\122908WebBrowser\122908WebBrowser\obj\Release\_122908WebBrowser.Properties.Resources.resources
+C:\Documents and Settings\Michael Bekesz\Desktop\MyProgs\Extra\122908WebBrowser\122908WebBrowser\obj\Release\122908WebBrowser.csproj.GenerateResource.Cache
